@@ -1,0 +1,80 @@
+body {
+  width: fit-content;
+  height: fit-content;
+  margin: 3rem auto;
+  padding: 0;
+  background-color: burlywood;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  width: 800px;
+  height: 800px;
+}
+
+.grid-items {
+  background-color: skyblue;
+}
+
+#box1,
+#box3,
+#box5,
+#box13,
+#box15 {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 1px solid gray;
+}
+
+#box2,
+#box4,
+#box8,
+#box14 {
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-left: 1px solid gray;
+}
+
+#box6 {
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+#box7 {
+  border-top: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+#box9 {
+  border: 3px solid black;
+}
+
+#box10,
+#box11 {
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: 1px solid gray;
+}
+
+#box12 {
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 1px solid gray;
+}
+
+#box16 {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: 1px solid gray;
+  border-left: 1px solid gray;
+}
