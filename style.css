@@ -1,3 +1,4 @@
+/* Exercise 1 - Step 2 */
 body {
   width: fit-content;
   height: fit-content;
@@ -6,6 +7,7 @@ body {
   background-color: burlywood;
 }
 
+/* Exercise 1 - Step 3 */
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -14,10 +16,12 @@ body {
   height: 800px;
 }
 
+/* Exercise 1 - Step 4 */
 .grid-items {
   background-color: skyblue;
 }
 
+/*Exercise 1 - Step 5 Start */
 #box1,
 #box3,
 #box5,
@@ -77,4 +81,10 @@ body {
   border-bottom: 3px solid black;
   border-top: 1px solid gray;
   border-left: 1px solid gray;
+}
+/* Exercise 1 - Step 5 End */
+
+/* Exercise 2 - Step 2 */
+.answer {
+
 }
