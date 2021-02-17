@@ -1,9 +1,10 @@
 # CSS-KenKen
 
-1. Open your **terminal or git bash** and navigate to your **repos** folder.<br>
-2. Use `git clone`, **followed by the url of the repository, to clone down the repository to your machine.** The command should look like `git clone https://github.com/TannerDrayton/CSS-KenKen.git`<br>
-3. **cd into the KenKen folder** that you **cloned down** into your **Repos folder**<br>
-4. Once inside the **KenKen project folder**, use `code .` to open an instance of **VS Code** at your location in the terminal.<br>
+1. Click the **fork button** in the **top right corner of this webpage**, to create a copy of this repository under your repos.
+2. Open your **terminal or git bash** and navigate to your **repos** folder.<br>
+3. Use `git clone`, **followed by the url of the repository, to clone down the repository to your machine.** The command should look like `git clone https://github.com/YourUser/CSS-KenKen.git`<br>
+4. **cd into the KenKen folder** that you **cloned down** into your **Repos folder**<br>
+5. Once inside the **KenKen project folder**, use `code .` to open an instance of **VS Code** at your location in the terminal.<br>
 
 ## Exercise 1
 
